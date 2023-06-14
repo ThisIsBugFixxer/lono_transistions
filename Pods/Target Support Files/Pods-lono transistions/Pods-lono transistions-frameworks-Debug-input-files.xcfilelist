@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-lono transistions/Pods-lono transistions-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/PixelSDK/PixelSDK.framework/PixelSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/PixelSDK-GPUImage3/GPUImage.framework/GPUImage

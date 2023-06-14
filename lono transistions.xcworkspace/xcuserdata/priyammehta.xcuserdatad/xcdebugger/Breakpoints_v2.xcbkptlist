@@ -1,0 +1,1693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F7237525-965F-423C-B1CB-C997A24E1CE8"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "5C96D3E6-14DD-41F0-B839-DDDB5CC510E4"
+            shouldBeEnabled = "No"
+            nameForDebugger = "fjngntrigt"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E6223AD-5C76-40A8-B007-6B0599D2F5D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/backgroundRemoval.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "removeBackground(image:maskOnly:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E6223AD-5C76-40A8-B007-6B0599D2F5D9 - 981714c75e804d40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.BackgroundRemoval.removeBackground(image: __C.UIImage, maskOnly: Swift.Bool) -&gt; __C.UIImage"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/backgroundRemoval.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+               <Location
+                  uuid = "9E6223AD-5C76-40A8-B007-6B0599D2F5D9 - 981714c75e804d40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.BackgroundRemoval.removeBackground(image: __C.UIImage, maskOnly: Swift.Bool) -&gt; __C.UIImage"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/backgroundRemoval.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE43989B-7E78-415F-AC53-FEA86239FDEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "SequentialCaller(transistions:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE43989B-7E78-415F-AC53-FEA86239FDEA - 9666f48f582c085e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.SequentialCaller(transistions: Swift.Array&lt;lono_transistions.Transistions&gt;, completion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "FE43989B-7E78-415F-AC53-FEA86239FDEA - 9666f48f582c085e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.SequentialCaller(transistions: Swift.Array&lt;lono_transistions.Transistions&gt;, completion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "FE43989B-7E78-415F-AC53-FEA86239FDEA - 9666f48f582c085e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.SequentialCaller(transistions: Swift.Array&lt;lono_transistions.Transistions&gt;, completion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7298AA03-4B1A-42A2-96B8-6F0DC4D85ECE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "SequentialCaller(transistions:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0211A919-B118-48C2-B347-20F90EB15084"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "SequentialCaller(transistions:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "640AAE21-A490-4FA8-8D78-7633F92445B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "SequentialCaller(transistions:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "640AAE21-A490-4FA8-8D78-7633F92445B5 - 9666f48f582c0fab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.SequentialCaller(transistions: Swift.Array&lt;lono_transistions.Transistions&gt;, completion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "1660">
+               </Location>
+               <Location
+                  uuid = "640AAE21-A490-4FA8-8D78-7633F92445B5 - 9666f48f582c0ed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.SequentialCaller(transistions: Swift.Array&lt;lono_transistions.Transistions&gt;, completion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "1612">
+               </Location>
+               <Location
+                  uuid = "640AAE21-A490-4FA8-8D78-7633F92445B5 - 9666f48f582c0ed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.SequentialCaller(transistions: Swift.Array&lt;lono_transistions.Transistions&gt;, completion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BFDE309-6650-4300-A9CC-226245301919"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "SequentialCaller(transistions:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0BFDE309-6650-4300-A9CC-226245301919 - 9666f48f582c0fab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.SequentialCaller(transistions: Swift.Array&lt;lono_transistions.Transistions&gt;, completion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "1660">
+               </Location>
+               <Location
+                  uuid = "0BFDE309-6650-4300-A9CC-226245301919 - 9666f48f582c0f46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.SequentialCaller(transistions: Swift.Array&lt;lono_transistions.Transistions&gt;, completion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "1656">
+               </Location>
+               <Location
+                  uuid = "0BFDE309-6650-4300-A9CC-226245301919 - 9666f48f582c0f46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.SequentialCaller(transistions: Swift.Array&lt;lono_transistions.Transistions&gt;, completion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "1616">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8692FA25-8926-463E-9CB0-59117D22BB66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "BGVideoGenerator()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8692FA25-8926-463E-9CB0-59117D22BB66 - 419ddad9809d1aad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Foundation.URL) -&gt; () in lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "8692FA25-8926-463E-9CB0-59117D22BB66 - d6fc84a92f990297"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.URL) -&gt; () in lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "8692FA25-8926-463E-9CB0-59117D22BB66 - d6fc84a92f990297"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.URL) -&gt; () in lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A64EB98-117D-445F-8988-6795F0405F4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "BGVideoGenerator()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A64EB98-117D-445F-8988-6795F0405F4F - 744514de27589114"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  uuid = "3A64EB98-117D-445F-8988-6795F0405F4F - d6fc84a92f99039f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.URL) -&gt; () in lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "3A64EB98-117D-445F-8988-6795F0405F4F - d6fc84a92f99039f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.URL) -&gt; () in lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "3A64EB98-117D-445F-8988-6795F0405F4F - 744514de27589114"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "864">
+               </Location>
+               <Location
+                  uuid = "3A64EB98-117D-445F-8988-6795F0405F4F - d6fc84a92f99039f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.URL) -&gt; () in lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "229C06A7-C1C8-4055-A836-A4B3F73C98F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "BGVideoGenerator()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "229C06A7-C1C8-4055-A836-A4B3F73C98F7 - 744514de27589073"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1240">
+               </Location>
+               <Location
+                  uuid = "229C06A7-C1C8-4055-A836-A4B3F73C98F7 - 744514de27589073"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFE2AFE5-8088-41BD-99D3-C659CE0813E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "BGVideoGenerator()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EFE2AFE5-8088-41BD-99D3-C659CE0813E5 - 744514de275893cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+               <Location
+                  uuid = "EFE2AFE5-8088-41BD-99D3-C659CE0813E5 - 744514de275893cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.transistionCreator.BGVideoGenerator() -&gt; Foundation.URL"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01A54593-A47F-4FB3-827B-42EE09A2635F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/CXEImagesToVideos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "createMovieFromSource(images:extractor:withCompletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "01A54593-A47F-4FB3-827B-42EE09A2635F - 71312b007c966da7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.CXEImagesToVideo.createMovieFromSource(images: Swift.Array&lt;Swift.AnyObject&gt;, extractor: (Swift.AnyObject) -&gt; Swift.Optional&lt;__C.UIImage&gt;, withCompletion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/CXEImagesToVideos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "01A54593-A47F-4FB3-827B-42EE09A2635F - 71312b007c966da7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.CXEImagesToVideo.createMovieFromSource(images: Swift.Array&lt;Swift.AnyObject&gt;, extractor: (Swift.AnyObject) -&gt; Swift.Optional&lt;__C.UIImage&gt;, withCompletion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/CXEImagesToVideos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E97F9DD5-C526-43C6-961B-F92080EEC5B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/CXEImagesToVideos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "createMovieFromSource(images:extractor:withCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8F7DD9E-3224-4819-B3C6-9A5C0385C5E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/CXEImagesToVideos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "createMovieFromSource(images:extractor:withCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1637F6AD-D920-4A2E-BEB0-FA19A672662C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/CXEImagesToVideos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "createMovieFromSource(images:extractor:withCompletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1637F6AD-D920-4A2E-BEB0-FA19A672662C - a1befaeb6c869ce3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in lono_transistions.CXEImagesToVideo.createMovieFromSource(images: Swift.Array&lt;Swift.AnyObject&gt;, extractor: (Swift.AnyObject) -&gt; Swift.Optional&lt;__C.UIImage&gt;, withCompletion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/CXEImagesToVideos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "2752">
+               </Location>
+               <Location
+                  uuid = "1637F6AD-D920-4A2E-BEB0-FA19A672662C - 4ab1468035960011"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; () in lono_transistions.CXEImagesToVideo.createMovieFromSource(images: Swift.Array&lt;Swift.AnyObject&gt;, extractor: (Swift.AnyObject) -&gt; Swift.Optional&lt;__C.UIImage&gt;, withCompletion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/CXEImagesToVideos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "1637F6AD-D920-4A2E-BEB0-FA19A672662C - 4ab1468035960070"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; () in lono_transistions.CXEImagesToVideo.createMovieFromSource(images: Swift.Array&lt;Swift.AnyObject&gt;, extractor: (Swift.AnyObject) -&gt; Swift.Optional&lt;__C.UIImage&gt;, withCompletion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/CXEImagesToVideos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "1637F6AD-D920-4A2E-BEB0-FA19A672662C - a1befaeb6c869ce3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in lono_transistions.CXEImagesToVideo.createMovieFromSource(images: Swift.Array&lt;Swift.AnyObject&gt;, extractor: (Swift.AnyObject) -&gt; Swift.Optional&lt;__C.UIImage&gt;, withCompletion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/CXEImagesToVideos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "2736">
+               </Location>
+               <Location
+                  uuid = "1637F6AD-D920-4A2E-BEB0-FA19A672662C - 4ab1468035960070"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; () in lono_transistions.CXEImagesToVideo.createMovieFromSource(images: Swift.Array&lt;Swift.AnyObject&gt;, extractor: (Swift.AnyObject) -&gt; Swift.Optional&lt;__C.UIImage&gt;, withCompletion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/CXEImagesToVideos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11B899B3-ED62-4620-A03F-7FFDC53F0265"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/CXEImagesToVideos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "createMovieFromSource(images:extractor:withCompletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11B899B3-ED62-4620-A03F-7FFDC53F0265 - 6c1ff98b85ccfe8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; () in lono_transistions.CXEImagesToVideo.createMovieFromSource(images: Swift.Array&lt;Swift.AnyObject&gt;, extractor: (Swift.AnyObject) -&gt; Swift.Optional&lt;__C.UIImage&gt;, withCompletion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/CXEImagesToVideos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "11B899B3-ED62-4620-A03F-7FFDC53F0265 - 4ab1468035960070"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; () in lono_transistions.CXEImagesToVideo.createMovieFromSource(images: Swift.Array&lt;Swift.AnyObject&gt;, extractor: (Swift.AnyObject) -&gt; Swift.Optional&lt;__C.UIImage&gt;, withCompletion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/CXEImagesToVideos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "11B899B3-ED62-4620-A03F-7FFDC53F0265 - 4ab1468035960070"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; () in lono_transistions.CXEImagesToVideo.createMovieFromSource(images: Swift.Array&lt;Swift.AnyObject&gt;, extractor: (Swift.AnyObject) -&gt; Swift.Optional&lt;__C.UIImage&gt;, withCompletion: (Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/CXEImagesToVideos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B68F7D57-5182-4E6C-930B-47C7E88E5ED8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "finalSticher(initialVideoTrack:initialVideoTimerange:AnimatedFGLayer:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A7A837A-ADBF-41A7-B1E9-BE3E385386A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "finalSticher(initialVideoTrack:initialVideoTimerange:AnimatedFGLayer:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD3B1654-C709-4C2D-B8D4-BC77B29A384D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "finalSticher(initialVideoTrack:initialVideoTimerange:AnimatedFGLayer:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DBDF3E8-ADB9-44A4-AA52-C7BB067AD4E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "finalSticher(initialVideoTrack:initialVideoTimerange:AnimatedFGLayer:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3B1B554-7DDC-4AA6-B155-341B727A5FDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "finalSticher(initialVideoTrack:initialVideoTimerange:AnimatedFGLayer:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3B1B554-7DDC-4AA6-B155-341B727A5FDF - cec0219f8150ae25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in lono_transistions.transistionCreator.finalSticher(initialVideoTrack: __C.AVAssetTrack, initialVideoTimerange: __C.CMTimeRange, AnimatedFGLayer: __C.AVMutableVideoComposition, completion: (Swift.Bool, Swift.Optional&lt;Foundation.URL&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "B3B1B554-7DDC-4AA6-B155-341B727A5FDF - cec0219f8150ae25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in lono_transistions.transistionCreator.finalSticher(initialVideoTrack: __C.AVAssetTrack, initialVideoTimerange: __C.CMTimeRange, AnimatedFGLayer: __C.AVMutableVideoComposition, completion: (Swift.Bool, Swift.Optional&lt;Foundation.URL&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A19E9C60-9AE2-40B9-A6FF-20345BB3E721"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "finalSticher(initialVideoTrack:initialVideoTimerange:AnimatedFGLayer:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A19E9C60-9AE2-40B9-A6FF-20345BB3E721 - cec0219f8150afa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in lono_transistions.transistionCreator.finalSticher(initialVideoTrack: __C.AVAssetTrack, initialVideoTimerange: __C.CMTimeRange, AnimatedFGLayer: __C.AVMutableVideoComposition, completion: (Swift.Bool, Swift.Optional&lt;Foundation.URL&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "1068">
+               </Location>
+               <Location
+                  uuid = "A19E9C60-9AE2-40B9-A6FF-20345BB3E721 - cec0219f8150afa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in lono_transistions.transistionCreator.finalSticher(initialVideoTrack: __C.AVAssetTrack, initialVideoTimerange: __C.CMTimeRange, AnimatedFGLayer: __C.AVMutableVideoComposition, completion: (Swift.Bool, Swift.Optional&lt;Foundation.URL&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "1164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3013CA8-305E-416B-8C1C-A95C1B401B27"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VCG.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "finalSticher(initialVideoTrack:initialVideoTimerange:AnimatedFGLayer:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3013CA8-305E-416B-8C1C-A95C1B401B27 - cec0219f8150af4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in lono_transistions.transistionCreator.finalSticher(initialVideoTrack: __C.AVAssetTrack, initialVideoTimerange: __C.CMTimeRange, AnimatedFGLayer: __C.AVMutableVideoComposition, completion: (Swift.Bool, Swift.Optional&lt;Foundation.URL&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "1796">
+               </Location>
+               <Location
+                  uuid = "B3013CA8-305E-416B-8C1C-A95C1B401B27 - cec0219f8150af4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in lono_transistions.transistionCreator.finalSticher(initialVideoTrack: __C.AVAssetTrack, initialVideoTimerange: __C.CMTimeRange, AnimatedFGLayer: __C.AVMutableVideoComposition, completion: (Swift.Bool, Swift.Optional&lt;Foundation.URL&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/VCG.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "1912">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5999F754-29D4-4F26-AEFA-101E521C1828"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "323"
+            endingLineNumber = "323"
+            landmarkName = "btnClick(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5999F754-29D4-4F26-AEFA-101E521C1828 - 88211e685e7fe8f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.URL) -&gt; () in lono_transistions.ViewController.btnClick(Any) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "291"
+                  endingLineNumber = "291"
+                  offsetFromSymbolStart = "1384">
+               </Location>
+               <Location
+                  uuid = "5999F754-29D4-4F26-AEFA-101E521C1828 - 4e0411c5001b4149"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 (Foundation.URL) -&gt; () in lono_transistions.ViewController.btnClick(Any) -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8973F09A-7E68-4232-AF97-B4DC409CA094"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/NetworkAPITemplateHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "JSONExtractorTesting(fileName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D6486C5-A41C-4355-85BD-2FC06146D6EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/NetworkAPITemplateHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "JSONExtractorTesting(fileName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83256FA6-43C5-4009-8255-BD97D9303957"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/NetworkAPITemplateHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "parse(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83256FA6-43C5-4009-8255-BD97D9303957 - aa7fe03e0df3ff92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "83256FA6-43C5-4009-8255-BD97D9303957 - aa7fe03e0df3ff92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "83256FA6-43C5-4009-8255-BD97D9303957 - aa7fe03e0df3ff92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "83256FA6-43C5-4009-8255-BD97D9303957 - aa7fe03e0df3ff92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B541DDD-DCE9-4571-B60F-A3B634D5DA81"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/NetworkAPITemplateHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "parse(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B541DDD-DCE9-4571-B60F-A3B634D5DA81 - aa7fe03e0df3fc50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "3B541DDD-DCE9-4571-B60F-A3B634D5DA81 - aa7fe03e0df3fc50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "3B541DDD-DCE9-4571-B60F-A3B634D5DA81 - aa7fe03e0df3fc50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "3B541DDD-DCE9-4571-B60F-A3B634D5DA81 - aa7fe03e0df3fc50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0C98AA4-8C00-425F-9D34-041E8FCC4285"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/NetworkAPITemplateHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "parse(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D0C98AA4-8C00-425F-9D34-041E8FCC4285 - aa7fe03e0df3fd1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "D0C98AA4-8C00-425F-9D34-041E8FCC4285 - aa7fe03e0df3fcd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "D0C98AA4-8C00-425F-9D34-041E8FCC4285 - aa7fe03e0df3fcd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "864">
+               </Location>
+               <Location
+                  uuid = "D0C98AA4-8C00-425F-9D34-041E8FCC4285 - aa7fe03e0df3fcd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "844">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A463EBCF-B258-4E98-9376-B98FDC4D0F86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "setTranssitionsFromURL()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A463EBCF-B258-4E98-9376-B98FDC4D0F86 - 2a7074ab37900f0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.ViewController.setTranssitionsFromURL() -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "A463EBCF-B258-4E98-9376-B98FDC4D0F86 - 2a7074ab37900812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.ViewController.setTranssitionsFromURL() -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "A463EBCF-B258-4E98-9376-B98FDC4D0F86 - 2a7074ab37900812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.ViewController.setTranssitionsFromURL() -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "A463EBCF-B258-4E98-9376-B98FDC4D0F86 - 2a7074ab37900812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.ViewController.setTranssitionsFromURL() -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "A463EBCF-B258-4E98-9376-B98FDC4D0F86 - 2a7074ab37900812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.ViewController.setTranssitionsFromURL() -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "A463EBCF-B258-4E98-9376-B98FDC4D0F86 - 2a7074ab37900f0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.ViewController.setTranssitionsFromURL() -&gt; ()"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "1524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C29C0714-DB32-41A7-ACBB-1299710A5F45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/NetworkAPITemplateHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "parse(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C29C0714-DB32-41A7-ACBB-1299710A5F45 - aa7fe03e0df3c201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  uuid = "C29C0714-DB32-41A7-ACBB-1299710A5F45 - aa7fe03e0df3c201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1928">
+               </Location>
+               <Location
+                  uuid = "C29C0714-DB32-41A7-ACBB-1299710A5F45 - aa7fe03e0df3c201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "2388">
+               </Location>
+               <Location
+                  uuid = "C29C0714-DB32-41A7-ACBB-1299710A5F45 - aa7fe03e0df3c201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "2428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F74CB42-28E1-451A-9A04-5287A748F975"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/NetworkAPITemplateHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "parse(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7F74CB42-28E1-451A-9A04-5287A748F975 - aa7fe03e0df3fcbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+               <Location
+                  uuid = "7F74CB42-28E1-451A-9A04-5287A748F975 - aa7fe03e0df3fcbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "1460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4CF8A13-939A-47A0-9187-4CF147E27489"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/NetworkAPITemplateHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "parse(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A4CF8A13-939A-47A0-9187-4CF147E27489 - aa7fe03e0df3fd1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "1452">
+               </Location>
+               <Location
+                  uuid = "A4CF8A13-939A-47A0-9187-4CF147E27489 - aa7fe03e0df3fd1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "1924">
+               </Location>
+               <Location
+                  uuid = "A4CF8A13-939A-47A0-9187-4CF147E27489 - aa7fe03e0df3fd1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lono_transistions.templateGenerator.parse(json: Foundation.Data) -&gt; Swift.Array&lt;lono_transistions.TemplateCategory&gt;"
+                  moduleName = "lono transistions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyammehta/Developer/BCD%20Internship/Feature%20Experiment%20Projects/lono%20transistions/lono%20transistions/NetworkAPITemplateHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "1964">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30F6E808-726A-460B-A42E-04AD484792DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "289"
+            endingLineNumber = "289"
+            landmarkName = "btnClick(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "170C4A37-5F31-4175-B299-17F13DDBD0F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
+            landmarkName = "btnClick(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1BC4F4D-975E-4882-ADB4-17052CE6DC53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "297"
+            endingLineNumber = "297"
+            landmarkName = "btnClick(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6334FAA8-CFA7-4E85-8038-236407E0E616"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VideoCreatorGeneralised.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "349"
+            endingLineNumber = "349"
+            landmarkName = "animation(videolayer:videoTrack:transistons:durmation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40E7DC25-1A0D-442D-8CC9-725118A6BC9A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/VideoCreatorGeneralised.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "350"
+            endingLineNumber = "350"
+            landmarkName = "animation(videolayer:videoTrack:transistons:durmation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1738A1AC-BC6D-4626-89C5-8DF3D815C170"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lono transistions/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "transsitionConverter(trn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

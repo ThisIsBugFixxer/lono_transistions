@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (7.6.2)
+  - PixelSDK (11.3.2):
+    - PixelSDK-GPUImage3 (~> 3.0)
+  - PixelSDK-GPUImage3 (3.1.3)
+
+DEPENDENCIES:
+  - Kingfisher
+  - PixelSDK
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - PixelSDK
+    - PixelSDK-GPUImage3
+
+SPEC CHECKSUMS:
+  Kingfisher: 6c5449c6450c5239166510ba04afe374a98afc4f
+  PixelSDK: 420b25af577c378acf2d96fb139cf5e7d409d576
+  PixelSDK-GPUImage3: 56b8688866b9d866e995c889e1072357b1610de0
+
+PODFILE CHECKSUM: ac500ef850cec3144e07acc9becdfe6ad618d5d7
+
+COCOAPODS: 1.12.1

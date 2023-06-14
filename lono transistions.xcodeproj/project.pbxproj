@@ -1,0 +1,529 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		495906E485E43B53B6378D16 /* Pods_lono_transistions.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B06FECD08559022A1F62978 /* Pods_lono_transistions.framework */; };
+		5F0A839829C064330066F920 /* backgroundRemoval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0A839729C064330066F920 /* backgroundRemoval.swift */; };
+		5F0A839C29C0655A0066F920 /* UIImageExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0A839B29C0655A0066F920 /* UIImageExtensions.swift */; };
+		5F3CB7AE29C98D6200DBD045 /* BSImagePicker in Frameworks */ = {isa = PBXBuildFile; productRef = 5F3CB7AD29C98D6200DBD045 /* BSImagePicker */; };
+		5F4923E329A39B7200AE16EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4923E229A39B7200AE16EC /* AppDelegate.swift */; };
+		5F4923E529A39B7200AE16EC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4923E429A39B7200AE16EC /* SceneDelegate.swift */; };
+		5F4923E729A39B7200AE16EC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4923E629A39B7200AE16EC /* ViewController.swift */; };
+		5F4923EA29A39B7200AE16EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F4923E829A39B7200AE16EC /* Main.storyboard */; };
+		5F4923ED29A39B7200AE16EC /* lono_transistions.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5F4923EB29A39B7200AE16EC /* lono_transistions.xcdatamodeld */; };
+		5F4923EF29A39B7300AE16EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F4923EE29A39B7300AE16EC /* Assets.xcassets */; };
+		5F4923F229A39B7300AE16EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F4923F029A39B7300AE16EC /* LaunchScreen.storyboard */; };
+		5F4923FA29A39CDD00AE16EC /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4923F929A39CDD00AE16EC /* Animation.swift */; };
+		5F4DC7E329A7A09300E2C923 /* transistion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4DC7E229A7A09300E2C923 /* transistion.swift */; };
+		5F6901D52A13786700A2DE5C /* VCG.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6901D42A13786700A2DE5C /* VCG.swift */; };
+		5F6901D72A138EF500A2DE5C /* CXEImagesToVideos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6901D62A138EF500A2DE5C /* CXEImagesToVideos.swift */; };
+		5F8AFBBB2A370C3A00A2353A /* NetworkAPITemplateHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8AFBBA2A370C3A00A2353A /* NetworkAPITemplateHandler.swift */; };
+		5F8AFBBD2A374F5F00A2353A /* jsontestFile.json in Resources */ = {isa = PBXBuildFile; fileRef = 5F8AFBBC2A374F5F00A2353A /* jsontestFile.json */; };
+		5F9B46EB29A62A8500B6AEA2 /* VideoCreator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9B46EA29A62A8500B6AEA2 /* VideoCreator.swift */; };
+		5F9B46ED29A6403F00B6AEA2 /* playVideo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9B46EC29A6403F00B6AEA2 /* playVideo.swift */; };
+		5FACAA4D2A0A23D700507E43 /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FACAA4C2A0A23D700507E43 /* UIImage+Extension.swift */; };
+		5FC3472329B0D15000F8E08A /* CIFilter+exgtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FC3472229B0D15000F8E08A /* CIFilter+exgtensions.swift */; };
+		5FF7597129A7439A001C3B50 /* VideoCreatorGeneralised.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FF7597029A7439A001C3B50 /* VideoCreatorGeneralised.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5F0A839729C064330066F920 /* backgroundRemoval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundRemoval.swift; sourceTree = "<group>"; };
+		5F0A839B29C0655A0066F920 /* UIImageExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtensions.swift; sourceTree = "<group>"; };
+		5F4923DF29A39B7200AE16EC /* lono transistions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "lono transistions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F4923E229A39B7200AE16EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5F4923E429A39B7200AE16EC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		5F4923E629A39B7200AE16EC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5F4923E929A39B7200AE16EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5F4923EC29A39B7200AE16EC /* lono_transistions.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = lono_transistions.xcdatamodel; sourceTree = "<group>"; };
+		5F4923EE29A39B7300AE16EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5F4923F129A39B7300AE16EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5F4923F329A39B7300AE16EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F4923F929A39CDD00AE16EC /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
+		5F4DC7E229A7A09300E2C923 /* transistion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = transistion.swift; sourceTree = "<group>"; };
+		5F6901D42A13786700A2DE5C /* VCG.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCG.swift; sourceTree = "<group>"; };
+		5F6901D62A138EF500A2DE5C /* CXEImagesToVideos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CXEImagesToVideos.swift; sourceTree = "<group>"; };
+		5F8AFBBA2A370C3A00A2353A /* NetworkAPITemplateHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkAPITemplateHandler.swift; sourceTree = "<group>"; };
+		5F8AFBBC2A374F5F00A2353A /* jsontestFile.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = jsontestFile.json; sourceTree = "<group>"; };
+		5F9B46EA29A62A8500B6AEA2 /* VideoCreator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCreator.swift; sourceTree = "<group>"; };
+		5F9B46EC29A6403F00B6AEA2 /* playVideo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = playVideo.swift; sourceTree = "<group>"; };
+		5FACAA4C2A0A23D700507E43 /* UIImage+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
+		5FC3472229B0D15000F8E08A /* CIFilter+exgtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CIFilter+exgtensions.swift"; sourceTree = "<group>"; };
+		5FF7597029A7439A001C3B50 /* VideoCreatorGeneralised.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCreatorGeneralised.swift; sourceTree = "<group>"; };
+		7B06FECD08559022A1F62978 /* Pods_lono_transistions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_lono_transistions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C7A862F7EAAEB220EC86CF9D /* Pods-lono transistions.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-lono transistions.debug.xcconfig"; path = "Target Support Files/Pods-lono transistions/Pods-lono transistions.debug.xcconfig"; sourceTree = "<group>"; };
+		FA705B81FC5F275E5939F32F /* Pods-lono transistions.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-lono transistions.release.xcconfig"; path = "Target Support Files/Pods-lono transistions/Pods-lono transistions.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5F4923DC29A39B7200AE16EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F3CB7AE29C98D6200DBD045 /* BSImagePicker in Frameworks */,
+				495906E485E43B53B6378D16 /* Pods_lono_transistions.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		31F79CB6F1A07C6C25FB4CE9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7B06FECD08559022A1F62978 /* Pods_lono_transistions.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5F4923D629A39B7200AE16EC = {
+			isa = PBXGroup;
+			children = (
+				5F4923E129A39B7200AE16EC /* lono transistions */,
+				5F4923E029A39B7200AE16EC /* Products */,
+				919726E71FB3F3F84671556D /* Pods */,
+				31F79CB6F1A07C6C25FB4CE9 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		5F4923E029A39B7200AE16EC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5F4923DF29A39B7200AE16EC /* lono transistions.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F4923E129A39B7200AE16EC /* lono transistions */ = {
+			isa = PBXGroup;
+			children = (
+				5F4923E229A39B7200AE16EC /* AppDelegate.swift */,
+				5F8AFBBA2A370C3A00A2353A /* NetworkAPITemplateHandler.swift */,
+				5F4923E429A39B7200AE16EC /* SceneDelegate.swift */,
+				5F4923E629A39B7200AE16EC /* ViewController.swift */,
+				5F8AFBBC2A374F5F00A2353A /* jsontestFile.json */,
+				5F0A839729C064330066F920 /* backgroundRemoval.swift */,
+				5F0A839B29C0655A0066F920 /* UIImageExtensions.swift */,
+				5F9B46EC29A6403F00B6AEA2 /* playVideo.swift */,
+				5F4923F929A39CDD00AE16EC /* Animation.swift */,
+				5F9B46EA29A62A8500B6AEA2 /* VideoCreator.swift */,
+				5FF7597029A7439A001C3B50 /* VideoCreatorGeneralised.swift */,
+				5F6901D42A13786700A2DE5C /* VCG.swift */,
+				5F6901D62A138EF500A2DE5C /* CXEImagesToVideos.swift */,
+				5FC3472229B0D15000F8E08A /* CIFilter+exgtensions.swift */,
+				5F4DC7E229A7A09300E2C923 /* transistion.swift */,
+				5F4923E829A39B7200AE16EC /* Main.storyboard */,
+				5F4923EE29A39B7300AE16EC /* Assets.xcassets */,
+				5F4923F029A39B7300AE16EC /* LaunchScreen.storyboard */,
+				5F4923F329A39B7300AE16EC /* Info.plist */,
+				5F4923EB29A39B7200AE16EC /* lono_transistions.xcdatamodeld */,
+				5FACAA4C2A0A23D700507E43 /* UIImage+Extension.swift */,
+			);
+			path = "lono transistions";
+			sourceTree = "<group>";
+		};
+		919726E71FB3F3F84671556D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C7A862F7EAAEB220EC86CF9D /* Pods-lono transistions.debug.xcconfig */,
+				FA705B81FC5F275E5939F32F /* Pods-lono transistions.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5F4923DE29A39B7200AE16EC /* lono transistions */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5F4923F629A39B7300AE16EC /* Build configuration list for PBXNativeTarget "lono transistions" */;
+			buildPhases = (
+				18DF8813D0853BB29A356DE2 /* [CP] Check Pods Manifest.lock */,
+				5F4923DB29A39B7200AE16EC /* Sources */,
+				5F4923DC29A39B7200AE16EC /* Frameworks */,
+				5F4923DD29A39B7200AE16EC /* Resources */,
+				AA695FB54D4A07DC6E8D169B /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "lono transistions";
+			packageProductDependencies = (
+				5F3CB7AD29C98D6200DBD045 /* BSImagePicker */,
+			);
+			productName = "lono transistions";
+			productReference = 5F4923DF29A39B7200AE16EC /* lono transistions.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5F4923D729A39B7200AE16EC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					5F4923DE29A39B7200AE16EC = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = 5F4923DA29A39B7200AE16EC /* Build configuration list for PBXProject "lono transistions" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5F4923D629A39B7200AE16EC;
+			packageReferences = (
+				5F3CB7AC29C98D6200DBD045 /* XCRemoteSwiftPackageReference "BSImagePicker" */,
+			);
+			productRefGroup = 5F4923E029A39B7200AE16EC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5F4923DE29A39B7200AE16EC /* lono transistions */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5F4923DD29A39B7200AE16EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F4923F229A39B7300AE16EC /* LaunchScreen.storyboard in Resources */,
+				5F4923EF29A39B7300AE16EC /* Assets.xcassets in Resources */,
+				5F8AFBBD2A374F5F00A2353A /* jsontestFile.json in Resources */,
+				5F4923EA29A39B7200AE16EC /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		18DF8813D0853BB29A356DE2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-lono transistions-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AA695FB54D4A07DC6E8D169B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-lono transistions/Pods-lono transistions-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-lono transistions/Pods-lono transistions-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-lono transistions/Pods-lono transistions-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5F4923DB29A39B7200AE16EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F4923E729A39B7200AE16EC /* ViewController.swift in Sources */,
+				5F4DC7E329A7A09300E2C923 /* transistion.swift in Sources */,
+				5F4923E329A39B7200AE16EC /* AppDelegate.swift in Sources */,
+				5FF7597129A7439A001C3B50 /* VideoCreatorGeneralised.swift in Sources */,
+				5F6901D72A138EF500A2DE5C /* CXEImagesToVideos.swift in Sources */,
+				5F4923ED29A39B7200AE16EC /* lono_transistions.xcdatamodeld in Sources */,
+				5F0A839C29C0655A0066F920 /* UIImageExtensions.swift in Sources */,
+				5F8AFBBB2A370C3A00A2353A /* NetworkAPITemplateHandler.swift in Sources */,
+				5FC3472329B0D15000F8E08A /* CIFilter+exgtensions.swift in Sources */,
+				5F4923FA29A39CDD00AE16EC /* Animation.swift in Sources */,
+				5F9B46EB29A62A8500B6AEA2 /* VideoCreator.swift in Sources */,
+				5F4923E529A39B7200AE16EC /* SceneDelegate.swift in Sources */,
+				5FACAA4D2A0A23D700507E43 /* UIImage+Extension.swift in Sources */,
+				5F6901D52A13786700A2DE5C /* VCG.swift in Sources */,
+				5F9B46ED29A6403F00B6AEA2 /* playVideo.swift in Sources */,
+				5F0A839829C064330066F920 /* backgroundRemoval.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5F4923E829A39B7200AE16EC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5F4923E929A39B7200AE16EC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		5F4923F029A39B7300AE16EC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5F4923F129A39B7300AE16EC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5F4923F429A39B7300AE16EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5F4923F529A39B7300AE16EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5F4923F729A39B7300AE16EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C7A862F7EAAEB220EC86CF9D /* Pods-lono transistions.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4ZZN5ZG5R2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lono transistions/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.panoslice.lono.transistions;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5F4923F829A39B7300AE16EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA705B81FC5F275E5939F32F /* Pods-lono transistions.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4ZZN5ZG5R2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lono transistions/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.panoslice.lono.transistions;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5F4923DA29A39B7200AE16EC /* Build configuration list for PBXProject "lono transistions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F4923F429A39B7300AE16EC /* Debug */,
+				5F4923F529A39B7300AE16EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5F4923F629A39B7300AE16EC /* Build configuration list for PBXNativeTarget "lono transistions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F4923F729A39B7300AE16EC /* Debug */,
+				5F4923F829A39B7300AE16EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		5F3CB7AC29C98D6200DBD045 /* XCRemoteSwiftPackageReference "BSImagePicker" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/mikaoj/BSImagePicker.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		5F3CB7AD29C98D6200DBD045 /* BSImagePicker */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5F3CB7AC29C98D6200DBD045 /* XCRemoteSwiftPackageReference "BSImagePicker" */;
+			productName = BSImagePicker;
+		};
+/* End XCSwiftPackageProductDependency section */
+
+/* Begin XCVersionGroup section */
+		5F4923EB29A39B7200AE16EC /* lono_transistions.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				5F4923EC29A39B7200AE16EC /* lono_transistions.xcdatamodel */,
+			);
+			currentVersion = 5F4923EC29A39B7200AE16EC /* lono_transistions.xcdatamodel */;
+			path = lono_transistions.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 5F4923D729A39B7200AE16EC /* Project object */;
+}
