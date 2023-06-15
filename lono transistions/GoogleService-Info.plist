@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>993099222372-ffmc3712bqhuqjr9hh9dq9cm3jp11rlc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.993099222372-ffmc3712bqhuqjr9hh9dq9cm3jp11rlc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAG7SB3HFfYDxnFgPYKiaSlbPphu-XUBNw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>993099222372</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.panoslice-demo.lono-transistions</string>
+	<key>PROJECT_ID</key>
+	<string>fir-c9320</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-c9320.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:993099222372:ios:44f870386e44087b9f7e71</string>
+</dict>
+</plist>

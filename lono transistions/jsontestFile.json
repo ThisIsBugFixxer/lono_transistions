@@ -47,5 +47,101 @@
                 ]
             }
         ]
-    }
+    },
+    {
+        "category_title": "Trending 2",
+        "category_slug": "colage_reel",
+        "Priority": 2,
+        "Version": 1.1,
+        "Templates": [
+            {
+                "template_name": "template 1",
+                "display_url": "display_url",
+                "Order": 0,
+                "Version": 1.1,
+                "n_images": 5,
+                "bg_duration": 5,
+                "frames": [
+                    {
+                        "transition": "LeftToRight",
+                        "transition_duration": 5,
+                        "isBgToBeRemoved": true,
+                        "fg_frame_index": 0
+                    },
+                    {
+                        "transition": "BottomToTop",
+                        "transition_duration": 3,
+                        "isBgToBeRemoved": true,
+                        "fg_frame_index": 0
+                    },
+                    {
+                        "transition": "BottomToTop",
+                        "transition_duration": 2,
+                        "isBgToBeRemoved": true,
+                        "fg_frame_index": 1
+                    },
+                    {
+                        "transition": "RightToLeft",
+                        "transition_duration": 1,
+                        "isBgToBeRemoved": true,
+                        "fg_frame_index": 3
+                    },
+                    {
+                        "transition": "BottomToTop",
+                        "transition_duration": 3,
+                        "isBgToBeRemoved": true,
+                        "fg_frame_index": 2
+                    },
+                ]
+            }
+        ]
+    },
+    {
+        "category_title": "Trending 3",
+        "category_slug": "colage_reel",
+        "Priority": 3,
+        "Version": 1.1,
+        "Templates": [
+            {
+                "template_name": "template 1",
+                "display_url": "display_url",
+                "Order": 0,
+                "Version": 1.1,
+                "n_images": 5,
+                "bg_duration": 5,
+                "frames": [
+                    {
+                        "transition": "LeftToRight",
+                        "transition_duration": 5,
+                        "isBgToBeRemoved": true,
+                        "fg_frame_index": 0
+                    },
+                    {
+                        "transition": "BottomToTop",
+                        "transition_duration": 3,
+                        "isBgToBeRemoved": true,
+                        "fg_frame_index": 0
+                    },
+                    {
+                        "transition": "BottomToTop",
+                        "transition_duration": 2,
+                        "isBgToBeRemoved": true,
+                        "fg_frame_index": 1
+                    },
+                    {
+                        "transition": "RightToLeft",
+                        "transition_duration": 1,
+                        "isBgToBeRemoved": true,
+                        "fg_frame_index": 3
+                    },
+                    {
+                        "transition": "BottomToTop",
+                        "transition_duration": 3,
+                        "isBgToBeRemoved": true,
+                        "fg_frame_index": 2
+                    },
+                ]
+            }
+        ]
+    },
 ]

@@ -8,4 +8,5 @@ target 'lono transistions' do
   # Pods for lono transistions
     pod 'PixelSDK'
     pod 'Kingfisher'
+    pod 'FirebaseAnalytics'
 end

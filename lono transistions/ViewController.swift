@@ -155,15 +155,19 @@ class ViewController: UIViewController, PHPickerViewControllerDelegate {
         }
     }
     @IBAction func modelBtnClick(_ sender: Any) {
+        
+        self.present(DynamicViewController(), animated: true)
+        
+        
         print("=== \(self.selectedImages)")
         
-        DispatchQueue.main.async {
-            self.spinner.startAnimating()
-        }
-        
-        self.setTranssitionsFromURL()
-        self.vc.bgPhotosArray = selectedImages
-        
+//        DispatchQueue.main.async {
+//            self.spinner.startAnimating()
+//        }
+//
+//        self.setTranssitionsFromURL()
+//        self.vc.bgPhotosArray = selectedImages
+//
         
 //        let transistion = [Transistions.leftToRight, Transistions.DiagonalTBLR,Transistions.bottomToTop,Transistions.leftToRight,Transistions.leftToRight,Transistions.leftToRight,Transistions.leftToRight,Transistions.leftToRight,Transistions.leftToRight,Transistions.leftToRight,Transistions.leftToRight,Transistions.leftToRight,Transistions.leftToRight,Transistions.leftToRight,Transistions.leftToRight]
 //
@@ -176,12 +180,12 @@ class ViewController: UIViewController, PHPickerViewControllerDelegate {
 //                self.playVideo(url: url)
 //            }
 //        }
-        DispatchQueue.main.async {
-                        self.spinner.stopAnimating()
-//                        self.playVideo(url: url)
-                    }
+//        DispatchQueue.main.async {
+//                        self.spinner.stopAnimating()
+////                        self.playVideo(url: url)
+//                    }
         
-        print("=== done")
+//        print("=== done")
     }
     
     

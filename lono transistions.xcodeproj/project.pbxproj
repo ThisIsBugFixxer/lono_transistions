@@ -10,6 +10,7 @@
 		495906E485E43B53B6378D16 /* Pods_lono_transistions.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B06FECD08559022A1F62978 /* Pods_lono_transistions.framework */; };
 		5F0A839829C064330066F920 /* backgroundRemoval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0A839729C064330066F920 /* backgroundRemoval.swift */; };
 		5F0A839C29C0655A0066F920 /* UIImageExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0A839B29C0655A0066F920 /* UIImageExtensions.swift */; };
+		5F30EE272A39DF8000C53601 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F30EE262A39DF8000C53601 /* GoogleService-Info.plist */; };
 		5F3CB7AE29C98D6200DBD045 /* BSImagePicker in Frameworks */ = {isa = PBXBuildFile; productRef = 5F3CB7AD29C98D6200DBD045 /* BSImagePicker */; };
 		5F4923E329A39B7200AE16EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4923E229A39B7200AE16EC /* AppDelegate.swift */; };
 		5F4923E529A39B7200AE16EC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4923E429A39B7200AE16EC /* SceneDelegate.swift */; };
@@ -19,6 +20,15 @@
 		5F4923EF29A39B7300AE16EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F4923EE29A39B7300AE16EC /* Assets.xcassets */; };
 		5F4923F229A39B7300AE16EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F4923F029A39B7300AE16EC /* LaunchScreen.storyboard */; };
 		5F4923FA29A39CDD00AE16EC /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4923F929A39CDD00AE16EC /* Animation.swift */; };
+		5F4CEB8D2A3AF3ED002353D0 /* DynamicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4CEB8B2A3AF3ED002353D0 /* DynamicViewController.swift */; };
+		5F4CEB8E2A3AF3ED002353D0 /* DynamicViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F4CEB8C2A3AF3ED002353D0 /* DynamicViewController.xib */; };
+		5F4CEB912A3AF6F4002353D0 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4CEB8F2A3AF6F4002353D0 /* CustomTableViewCell.swift */; };
+		5F4CEB922A3AF6F4002353D0 /* CustomTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F4CEB902A3AF6F4002353D0 /* CustomTableViewCell.xib */; };
+		5F4CEB972A3B0B42002353D0 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4CEB952A3B0B42002353D0 /* TableViewController.swift */; };
+		5F4CEB982A3B0B42002353D0 /* TableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F4CEB962A3B0B42002353D0 /* TableViewController.xib */; };
+		5F4CEB9B2A3B2A4A002353D0 /* AVPlayer+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4CEB9A2A3B2A4A002353D0 /* AVPlayer+extension.swift */; };
+		5F4CEB9E2A3B2B32002353D0 /* Template-display-2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 5F4CEB9C2A3B2B32002353D0 /* Template-display-2.mp4 */; };
+		5F4CEB9F2A3B2B32002353D0 /* Template-display-1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 5F4CEB9D2A3B2B32002353D0 /* Template-display-1.mp4 */; };
 		5F4DC7E329A7A09300E2C923 /* transistion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4DC7E229A7A09300E2C923 /* transistion.swift */; };
 		5F6901D52A13786700A2DE5C /* VCG.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6901D42A13786700A2DE5C /* VCG.swift */; };
 		5F6901D72A138EF500A2DE5C /* CXEImagesToVideos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F6901D62A138EF500A2DE5C /* CXEImagesToVideos.swift */; };
@@ -34,6 +44,7 @@
 /* Begin PBXFileReference section */
 		5F0A839729C064330066F920 /* backgroundRemoval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundRemoval.swift; sourceTree = "<group>"; };
 		5F0A839B29C0655A0066F920 /* UIImageExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtensions.swift; sourceTree = "<group>"; };
+		5F30EE262A39DF8000C53601 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		5F4923DF29A39B7200AE16EC /* lono transistions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "lono transistions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F4923E229A39B7200AE16EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5F4923E429A39B7200AE16EC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +55,15 @@
 		5F4923F129A39B7300AE16EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5F4923F329A39B7300AE16EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F4923F929A39CDD00AE16EC /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
+		5F4CEB8B2A3AF3ED002353D0 /* DynamicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicViewController.swift; sourceTree = "<group>"; };
+		5F4CEB8C2A3AF3ED002353D0 /* DynamicViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DynamicViewController.xib; sourceTree = "<group>"; };
+		5F4CEB8F2A3AF6F4002353D0 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
+		5F4CEB902A3AF6F4002353D0 /* CustomTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomTableViewCell.xib; sourceTree = "<group>"; };
+		5F4CEB952A3B0B42002353D0 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		5F4CEB962A3B0B42002353D0 /* TableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewController.xib; sourceTree = "<group>"; };
+		5F4CEB9A2A3B2A4A002353D0 /* AVPlayer+extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AVPlayer+extension.swift"; sourceTree = "<group>"; };
+		5F4CEB9C2A3B2B32002353D0 /* Template-display-2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Template-display-2.mp4"; sourceTree = "<group>"; };
+		5F4CEB9D2A3B2B32002353D0 /* Template-display-1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Template-display-1.mp4"; sourceTree = "<group>"; };
 		5F4DC7E229A7A09300E2C923 /* transistion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = transistion.swift; sourceTree = "<group>"; };
 		5F6901D42A13786700A2DE5C /* VCG.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCG.swift; sourceTree = "<group>"; };
 		5F6901D62A138EF500A2DE5C /* CXEImagesToVideos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CXEImagesToVideos.swift; sourceTree = "<group>"; };
@@ -101,8 +121,12 @@
 		5F4923E129A39B7200AE16EC /* lono transistions */ = {
 			isa = PBXGroup;
 			children = (
+				5F30EE262A39DF8000C53601 /* GoogleService-Info.plist */,
+				5F4CEB9D2A3B2B32002353D0 /* Template-display-1.mp4 */,
+				5F4CEB9C2A3B2B32002353D0 /* Template-display-2.mp4 */,
 				5F4923E229A39B7200AE16EC /* AppDelegate.swift */,
 				5F8AFBBA2A370C3A00A2353A /* NetworkAPITemplateHandler.swift */,
+				5F4CEB9A2A3B2A4A002353D0 /* AVPlayer+extension.swift */,
 				5F4923E429A39B7200AE16EC /* SceneDelegate.swift */,
 				5F4923E629A39B7200AE16EC /* ViewController.swift */,
 				5F8AFBBC2A374F5F00A2353A /* jsontestFile.json */,
@@ -122,8 +146,22 @@
 				5F4923F329A39B7300AE16EC /* Info.plist */,
 				5F4923EB29A39B7200AE16EC /* lono_transistions.xcdatamodeld */,
 				5FACAA4C2A0A23D700507E43 /* UIImage+Extension.swift */,
+				5F4CEB952A3B0B42002353D0 /* TableViewController.swift */,
+				5F4CEB962A3B0B42002353D0 /* TableViewController.xib */,
+				5F4CEB992A3B0E5C002353D0 /* CTV */,
 			);
 			path = "lono transistions";
+			sourceTree = "<group>";
+		};
+		5F4CEB992A3B0E5C002353D0 /* CTV */ = {
+			isa = PBXGroup;
+			children = (
+				5F4CEB8B2A3AF3ED002353D0 /* DynamicViewController.swift */,
+				5F4CEB8F2A3AF6F4002353D0 /* CustomTableViewCell.swift */,
+				5F4CEB902A3AF6F4002353D0 /* CustomTableViewCell.xib */,
+				5F4CEB8C2A3AF3ED002353D0 /* DynamicViewController.xib */,
+			);
+			path = CTV;
 			sourceTree = "<group>";
 		};
 		919726E71FB3F3F84671556D /* Pods */ = {
@@ -201,10 +239,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F4CEB9F2A3B2B32002353D0 /* Template-display-1.mp4 in Resources */,
 				5F4923F229A39B7300AE16EC /* LaunchScreen.storyboard in Resources */,
+				5F4CEB922A3AF6F4002353D0 /* CustomTableViewCell.xib in Resources */,
 				5F4923EF29A39B7300AE16EC /* Assets.xcassets in Resources */,
+				5F30EE272A39DF8000C53601 /* GoogleService-Info.plist in Resources */,
 				5F8AFBBD2A374F5F00A2353A /* jsontestFile.json in Resources */,
+				5F4CEB9E2A3B2B32002353D0 /* Template-display-2.mp4 in Resources */,
+				5F4CEB8E2A3AF3ED002353D0 /* DynamicViewController.xib in Resources */,
 				5F4923EA29A39B7200AE16EC /* Main.storyboard in Resources */,
+				5F4CEB982A3B0B42002353D0 /* TableViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,9 +304,13 @@
 				5F4923E729A39B7200AE16EC /* ViewController.swift in Sources */,
 				5F4DC7E329A7A09300E2C923 /* transistion.swift in Sources */,
 				5F4923E329A39B7200AE16EC /* AppDelegate.swift in Sources */,
+				5F4CEB972A3B0B42002353D0 /* TableViewController.swift in Sources */,
 				5FF7597129A7439A001C3B50 /* VideoCreatorGeneralised.swift in Sources */,
 				5F6901D72A138EF500A2DE5C /* CXEImagesToVideos.swift in Sources */,
+				5F4CEB912A3AF6F4002353D0 /* CustomTableViewCell.swift in Sources */,
 				5F4923ED29A39B7200AE16EC /* lono_transistions.xcdatamodeld in Sources */,
+				5F4CEB9B2A3B2A4A002353D0 /* AVPlayer+extension.swift in Sources */,
+				5F4CEB8D2A3AF3ED002353D0 /* DynamicViewController.swift in Sources */,
 				5F0A839C29C0655A0066F920 /* UIImageExtensions.swift in Sources */,
 				5F8AFBBB2A370C3A00A2353A /* NetworkAPITemplateHandler.swift in Sources */,
 				5FC3472329B0D15000F8E08A /* CIFilter+exgtensions.swift in Sources */,
@@ -428,12 +476,13 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.panoslice.lono.transistions;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.panoslice-demo.lono-transistions";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -457,12 +506,13 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.panoslice.lono.transistions;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.panoslice-demo.lono-transistions";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
